@@ -10,7 +10,7 @@ comerciales mediante el uso de datos.
 
 ## 🚀 Demo de la aplicación
 
-👉 Puedes probar la app aquí:\
+👉 Puedes probar la app aquí(Descargando el archivo de Data o teniendo un archivo con las columnas expuestas en el presente documento):\
 [🔗 Ver aplicación en Streamlit](https://clientsprediction.streamlit.app/)
 
 ------------------------------------------------------------------------
